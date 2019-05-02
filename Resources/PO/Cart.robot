@@ -9,3 +9,4 @@ Proceed to Checkout
     wait until element is visible  xpath=//*[@id="attach-sidesheet-checkout-button"]  timeout=20s
     Click element  xpath=//*[@id="attach-sidesheet-checkout-button"]
 
+# Checkout change in cart
