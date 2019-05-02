@@ -28,3 +28,4 @@ User must sign in to checkout
     AmazonApp.Add Product to Cart
     AmazonApp.Begin Checkout
 
+# checkout change in amazon
