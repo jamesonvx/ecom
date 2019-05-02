@@ -17,7 +17,7 @@ Suite Teardown  Cleanup Testing Data
 *** Test Cases ***
 User can search for products
     [Documentation]  This is some basic info on the test case
-    [Tags]  Smoke
+    [Tags]  Smoke  Products
     AmazonApp.Search for Products
 
 User must sign in to checkout
