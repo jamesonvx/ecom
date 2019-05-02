@@ -22,7 +22,7 @@ User can search for products
 
 User must sign in to checkout
     [Documentation]  This is some basic info on the test case
-    [Tags]  Smoke
+    [Tags]  Smoke  View
     AmazonApp.Search for Products
     AmazonApp.Select Product from Search Results
     AmazonApp.Add Product to Cart
