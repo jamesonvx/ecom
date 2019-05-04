@@ -31,3 +31,6 @@ User must sign in to checkout
 # checkout change in amazon
 
 # added comment in master not local
+
+Feature 1 Test
+    Log  doing Feature 1
