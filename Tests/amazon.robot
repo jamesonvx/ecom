@@ -33,4 +33,4 @@ User must sign in to checkout
 # added comment in master not local
 
 Feature 1 Test
-    Log  doing Feature 1
+    Log  doing Feature 1 
