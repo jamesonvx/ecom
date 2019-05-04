@@ -17,7 +17,7 @@ Suite Teardown  Cleanup Testing Data
 *** Test Cases ***
 User can search for products
     [Documentation]  This is some basic info on the test case
-    [Tags]  Smoke  Products
+    [Tags]  Smoke
     AmazonApp.Search for Products
 
 User must sign in to checkout
@@ -33,4 +33,4 @@ User must sign in to checkout
 # added comment in master not local
 
 Feature 1 Test
-    Log  doing Feature 1 
+    Log  doing Feature 1
